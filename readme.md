@@ -14,6 +14,9 @@ This project uses YOLOv8 to detect dental findings in Orthopantomography (OPG) X
 - Ultralytics (YOLOv8)
 - OpenCV-Python
 
+![F1](dets/F1_curve.png)
+![Results](dets/results.png)
+
 ## Project Structure
 
 ```text
@@ -42,3 +45,5 @@ This project uses YOLOv8 to detect dental findings in Orthopantomography (OPG) X
     python app.py
     ```
 3. Access web interface at `http://127.0.0.1:5000/`
+
+
