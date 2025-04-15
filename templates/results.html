@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Inference Results</title>
+     <style>
+      body { font-family: sans-serif; margin: 20px; }
+      .container { max-width: 90%; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px; display: flex; gap: 20px;}
+      .results { flex: 1; }
+      .image-container { flex: 2; text-align: center; }
+      img { max-width: 100%; height: auto; border: 1px solid #eee; }
+      h1, h2 { margin-top: 0; }
+      ul { list-style: none; padding: 0; }
+      li { margin-bottom: 5px; }
+      pre { background-color: #f8f8f8; padding: 10px; border: 1px solid #ddd; border-radius: 3px; white-space: pre-wrap; word-wrap: break-word; font-family: monospace; } /* Added monospace font */
+    </style>
+  </head>
+  <body>
+    <h1>OPG Analysis Results</h1>
+    <div class="container">
+      <div class="results">
+        <h2>Diagnosis Report</h2>
+        <ul>
+          {% for item in diagnosis %}
+          <li>- {{ item }}</li>
+          {% endfor %}
+        </ul>
+
+        <h2>Detected Objects (Raw)</h2>
+        {% if predictions %}
+          <pre><code>Class   Class name             BBox (xywh_norm)         Confidence
+-----   --------------------   -----------------------  ----------
+{% for p in predictions %}<!-- Loop around each line -->
+{{ p.label }}       {{ p.name }}           {{ '%.3f'|format(p.box[0]) }},{{ '%.3f'|format(p.box[1]) }},{{ '%.3f'|format(p.box[2]) }},{{ '%.3f'|format(p.box[3]) }}   {{ '%.3f'|format(p.conf) }}
+{% endfor %}</code></pre>
+        {% else %}
+          <p>(No objects detected above confidence threshold)</p>
+        {% endif %}
+         <p><a href="/">Upload another image</a></p>
+      </div>
+      <div class="image-container">
+         <h2>Annotated Image</h2>
+        {% if annotated_image_data %}
+          <img src="{{ annotated_image_data }}" alt="Annotated OPG Scan">
+        {% else %}
+          <p>Could not generate annotated image.</p>
+        {% endif %}
+      </div>
+    </div>
+
+  </body>
+</html>

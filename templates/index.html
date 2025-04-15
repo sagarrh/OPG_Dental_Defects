@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>OPG Scan Inference</title>
+    <style>
+      body { font-family: sans-serif; margin: 20px; }
+      .container { max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px; }
+      input[type=file], input[type=submit] { margin-top: 10px; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Upload OPG Scan for Analysis</h1>
+      <form method=post enctype=multipart/form-data>
+        <label for="file">Choose OPG image (png, jpg, jpeg):</label><br>
+        <input type=file id="file" name=file accept=".png, .jpg, .jpeg" required>
+        <br>
+        <input type=submit value=Upload>
+      </form>
+    </div>
+  </body>
+</html>

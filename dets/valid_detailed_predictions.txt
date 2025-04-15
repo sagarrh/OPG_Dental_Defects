@@ -1,0 +1,1487 @@
+Image no.: 1
+Image title: 12.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.314, 0.533, 0.204, 0.284            0.463
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 2
+Image title: 202.png
+
+Predicted Results:
+Total objects detected:6
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 7        Free_L_Mand                   0.747, 0.663, 0.196, 0.187            0.855
+ 0        Broken_Root                   0.778, 0.632, 0.057, 0.138            0.782
+ 0        Broken_Root                   0.729, 0.658, 0.040, 0.098            0.769
+ 0        Broken_Root                   0.339, 0.712, 0.048, 0.161            0.624
+ 0        Broken_Root                   0.753, 0.639, 0.107, 0.146            0.556
+ 3        Free_L_Max                    0.772, 0.473, 0.141, 0.213            0.349
+
+Diagnosis:
+- 4 broken roots detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+- Mandibular Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.342, 0.689, 0.046, 0.199
+ 0        Broken_Root                   0.722, 0.650, 0.045, 0.085
+ 8        Not_Free_Mand                 0.339, 0.666, 0.131, 0.174
+ 0        Broken_Root                   0.779, 0.645, 0.064, 0.142
+ 0        Broken_Root                   0.244, 0.458, 0.050, 0.231
+ 7        Free_L_Mand                   0.750, 0.660, 0.190, 0.170
+Total ground truth objects: 6
+
+****************************************************************************************************
+
+Image no.: 3
+Image title: 155.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 4
+Image title: 114.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 7        Free_L_Mand                   0.743, 0.494, 0.246, 0.258            0.871
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 7        Free_L_Mand                   0.713, 0.507, 0.185, 0.267
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 5
+Image title: 122.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.275, 0.670, 0.137, 0.296            0.712
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.283, 0.656, 0.142, 0.270
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 6
+Image title: 170.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.686, 0.289, 0.166, 0.253            0.825
+ 0        Broken_Root                   0.693, 0.283, 0.050, 0.119            0.315
+ 0        Broken_Root                   0.698, 0.289, 0.038, 0.107            0.290
+
+Diagnosis:
+- 2 broken roots detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.684, 0.309, 0.090, 0.133
+ 4        Not_Free_Max                  0.687, 0.318, 0.165, 0.164
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 7
+Image title: 147.png
+
+Predicted Results:
+Total objects detected:6
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.650, 0.690, 0.161, 0.241            0.817
+ 0        Broken_Root                   0.297, 0.692, 0.073, 0.198            0.802
+ 3        Free_L_Max                    0.722, 0.471, 0.165, 0.191            0.794
+ 8        Not_Free_Mand                 0.353, 0.665, 0.122, 0.190            0.633
+ 7        Free_L_Mand                   0.764, 0.671, 0.200, 0.182            0.374
+ 6        Free_R_Mand                   0.258, 0.690, 0.169, 0.205            0.309
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+- Mandibular Kennedy classification: Class I (Bilateral posterior edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.659, 0.683, 0.183, 0.271
+ 8        Not_Free_Mand                 0.334, 0.695, 0.157, 0.291
+ 0        Broken_Root                   0.300, 0.680, 0.070, 0.180
+ 1        PCT                           0.700, 0.700, 0.080, 0.240
+ 0        Broken_Root                   0.630, 0.430, 0.030, 0.150
+ 6        Free_R_Mand                   0.250, 0.690, 0.170, 0.190
+Total ground truth objects: 6
+
+****************************************************************************************************
+
+Image no.: 8
+Image title: 160.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 9
+Image title: 113.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 10
+Image title: 133.png
+
+Predicted Results:
+Total objects detected:7
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 2        Free_R_Max                    0.231, 0.361, 0.204, 0.212            0.935
+ 4        Not_Free_Max                  0.338, 0.346, 0.122, 0.219            0.823
+ 8        Not_Free_Mand                 0.325, 0.636, 0.121, 0.243            0.819
+ 0        Broken_Root                   0.334, 0.643, 0.034, 0.105            0.718
+ 8        Not_Free_Mand                 0.642, 0.599, 0.141, 0.254            0.681
+ 1        PCT                           0.792, 0.351, 0.056, 0.161            0.274
+ 0        Broken_Root                   0.631, 0.618, 0.037, 0.146            0.253
+
+Diagnosis:
+- 2 broken roots detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - right)
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.334, 0.358, 0.028, 0.066
+ 2        Free_R_Max                    0.231, 0.392, 0.211, 0.224
+ 0        Broken_Root                   0.331, 0.647, 0.031, 0.125
+ 7        Free_L_Mand                   0.323, 0.628, 0.130, 0.243
+ 0        Broken_Root                   0.632, 0.630, 0.039, 0.175
+ 8        Not_Free_Mand                 0.640, 0.590, 0.140, 0.240
+ 8        Not_Free_Mand                 0.330, 0.630, 0.120, 0.250
+Total ground truth objects: 7
+
+****************************************************************************************************
+
+Image no.: 11
+Image title: 112.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.301, 0.505, 0.178, 0.261            0.852
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.303, 0.508, 0.173, 0.252
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 12
+Image title: 1.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.464, 0.283, 0.136, 0.261            0.745
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 5        Not_Free_Center_Max           0.520, 0.269, 0.252, 0.321
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 13
+Image title: 142.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.639, 0.417, 0.207, 0.249            0.905
+ 0        Broken_Root                   0.611, 0.395, 0.079, 0.190            0.738
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.754, 0.443, 0.056, 0.172
+ 4        Not_Free_Max                  0.643, 0.407, 0.199, 0.224
+ 0        Broken_Root                   0.625, 0.416, 0.038, 0.194
+ 0        Broken_Root                   0.592, 0.388, 0.039, 0.195
+ 0        Broken_Root                   0.710, 0.448, 0.053, 0.203
+Total ground truth objects: 5
+
+****************************************************************************************************
+
+Image no.: 14
+Image title: 18.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 15
+Image title: 128.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.595, 0.469, 0.091, 0.233            0.849
+ 5        Not_Free_Center_Max           0.505, 0.430, 0.183, 0.292            0.631
+ 4        Not_Free_Max                  0.507, 0.431, 0.186, 0.300            0.256
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class IV (Anterior edentulous area crossing midline)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.597, 0.473, 0.092, 0.248
+ 5        Not_Free_Center_Max           0.504, 0.460, 0.174, 0.242
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 16
+Image title: 265.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 17
+Image title: 305.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 0        Broken_Root                   0.797, 0.603, 0.070, 0.141            0.874
+ 7        Free_L_Mand                   0.786, 0.602, 0.205, 0.178            0.585
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 7        Free_L_Mand                   0.773, 0.631, 0.211, 0.187
+ 0        Broken_Root                   0.798, 0.605, 0.065, 0.135
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 18
+Image title: 319.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.790, 0.634, 0.092, 0.135
+ 7        Free_L_Mand                   0.762, 0.643, 0.189, 0.191
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 19
+Image title: 40.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 20
+Image title: 218.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.404, 0.375, 0.118, 0.219            0.745
+ 0        Broken_Root                   0.387, 0.348, 0.023, 0.060            0.536
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.401, 0.398, 0.124, 0.180
+ 6        Free_R_Mand                   0.204, 0.662, 0.226, 0.254
+ 0        Broken_Root                   0.407, 0.369, 0.047, 0.081
+ 1        PCT                           0.247, 0.375, 0.145, 0.227
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 21
+Image title: 238.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.416, 0.475, 0.110, 0.225            0.882
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.417, 0.465, 0.098, 0.239
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 22
+Image title: 45.png
+
+Predicted Results:
+Total objects detected:4
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.697, 0.504, 0.160, 0.228            0.901
+ 4        Not_Free_Max                  0.640, 0.257, 0.136, 0.245            0.889
+ 8        Not_Free_Mand                 0.304, 0.511, 0.169, 0.259            0.889
+ 3        Free_L_Max                    0.789, 0.250, 0.163, 0.208            0.652
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.312, 0.498, 0.160, 0.206
+ 8        Not_Free_Mand                 0.699, 0.502, 0.180, 0.215
+ 4        Not_Free_Max                  0.641, 0.265, 0.138, 0.233
+Total ground truth objects: 3
+
+****************************************************************************************************
+
+Image no.: 23
+Image title: 4.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.696, 0.533, 0.130, 0.213            0.710
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 24
+Image title: 291.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.275, 0.494, 0.148, 0.234            0.908
+ 8        Not_Free_Mand                 0.657, 0.739, 0.142, 0.265            0.753
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.648, 0.708, 0.140, 0.226
+ 4        Not_Free_Max                  0.283, 0.503, 0.143, 0.227
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 25
+Image title: 206.png
+
+Predicted Results:
+Total objects detected:4
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.566, 0.485, 0.105, 0.205            0.924
+ 2        Free_R_Max                    0.296, 0.487, 0.129, 0.173            0.601
+ 4        Not_Free_Max                  0.507, 0.494, 0.090, 0.188            0.586
+ 4        Not_Free_Max                  0.550, 0.489, 0.075, 0.198            0.322
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - right)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.564, 0.480, 0.104, 0.212
+ 2        Free_R_Max                    0.300, 0.490, 0.120, 0.160
+ 4        Not_Free_Max                  0.510, 0.490, 0.090, 0.210
+Total ground truth objects: 3
+
+****************************************************************************************************
+
+Image no.: 26
+Image title: 34.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 27
+Image title: 38.png
+
+Predicted Results:
+Total objects detected:5
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.731, 0.520, 0.184, 0.236            0.916
+ 4        Not_Free_Max                  0.756, 0.280, 0.153, 0.253            0.904
+ 8        Not_Free_Mand                 0.264, 0.528, 0.134, 0.234            0.803
+ 0        Broken_Root                   0.295, 0.531, 0.067, 0.225            0.698
+ 1        PCT                           0.591, 0.544, 0.067, 0.218            0.446
+
+Diagnosis:
+- A single broken root detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.275, 0.554, 0.038, 0.146
+ 8        Not_Free_Mand                 0.268, 0.519, 0.135, 0.227
+ 8        Not_Free_Mand                 0.729, 0.512, 0.170, 0.224
+ 4        Not_Free_Max                  0.759, 0.267, 0.159, 0.278
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 28
+Image title: 295.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.235, 0.445, 0.140, 0.253            0.932
+ 4        Not_Free_Max                  0.685, 0.418, 0.148, 0.219            0.919
+ 0        Broken_Root                   0.720, 0.641, 0.063, 0.227            0.857
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (2 bounded edentulous areas)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.546, 0.388, 0.044, 0.260
+ 4        Not_Free_Max                  0.685, 0.397, 0.162, 0.252
+ 0        Broken_Root                   0.720, 0.651, 0.066, 0.269
+ 4        Not_Free_Max                  0.237, 0.449, 0.147, 0.247
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 29
+Image title: 21.png
+
+Predicted Results:
+Total objects detected:7
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.678, 0.269, 0.165, 0.219            0.913
+ 8        Not_Free_Mand                 0.572, 0.499, 0.146, 0.267            0.871
+ 7        Free_L_Mand                   0.714, 0.508, 0.240, 0.254            0.865
+ 8        Not_Free_Mand                 0.375, 0.479, 0.113, 0.218            0.834
+ 6        Free_R_Mand                   0.252, 0.525, 0.235, 0.254            0.773
+ 0        Broken_Root                   0.567, 0.530, 0.032, 0.119            0.346
+ 0        Broken_Root                   0.576, 0.529, 0.051, 0.121            0.315
+
+Diagnosis:
+- 2 broken roots detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Kennedy classification: Class I (Bilateral posterior edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.692, 0.260, 0.158, 0.208
+ 8        Not_Free_Mand                 0.375, 0.499, 0.107, 0.273
+ 6        Free_R_Mand                   0.247, 0.518, 0.242, 0.236
+ 1        PCT                           0.730, 0.290, 0.060, 0.190
+ 7        Free_L_Mand                   0.725, 0.505, 0.269, 0.250
+ 8        Not_Free_Mand                 0.577, 0.483, 0.149, 0.242
+Total ground truth objects: 6
+
+****************************************************************************************************
+
+Image no.: 30
+Image title: 42.png
+
+Predicted Results:
+Total objects detected:5
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.706, 0.519, 0.170, 0.245            0.935
+ 0        Broken_Root                   0.269, 0.280, 0.067, 0.201            0.858
+ 0        Broken_Root                   0.693, 0.498, 0.061, 0.085            0.853
+ 0        Broken_Root                   0.706, 0.277, 0.052, 0.146            0.845
+ 0        Broken_Root                   0.802, 0.254, 0.050, 0.106            0.572
+
+Diagnosis:
+- 4 broken roots detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.712, 0.517, 0.163, 0.259
+ 0        Broken_Root                   0.708, 0.271, 0.050, 0.131
+ 4        Not_Free_Max                  0.720, 0.280, 0.150, 0.210
+ 0        Broken_Root                   0.692, 0.498, 0.068, 0.096
+ 0        Broken_Root                   0.271, 0.271, 0.075, 0.213
+Total ground truth objects: 5
+
+****************************************************************************************************
+
+Image no.: 31
+Image title: a2471.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.690, 0.370, 0.050, 0.170
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 32
+Image title: a2434.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 33
+Image title: 50.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 34
+Image title: a11.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.367, 0.612, 0.114, 0.207            0.898
+ 2        Free_R_Max                    0.304, 0.429, 0.128, 0.138            0.580
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - right)
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.370, 0.583, 0.113, 0.157
+ 2        Free_R_Max                    0.300, 0.440, 0.140, 0.130
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 35
+Image title: a1436.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.688, 0.676, 0.223, 0.214            0.867
+ 8        Not_Free_Mand                 0.308, 0.655, 0.174, 0.210            0.859
+ 1        PCT                           0.366, 0.672, 0.055, 0.193            0.765
+
+Diagnosis:
+- No broken root detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.306, 0.659, 0.191, 0.228
+ 8        Not_Free_Mand                 0.686, 0.661, 0.220, 0.198
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 36
+Image title: a1036.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.680, 0.634, 0.163, 0.204            0.910
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.675, 0.628, 0.156, 0.188
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 37
+Image title: a2411.png
+
+Predicted Results:
+Total objects detected:6
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 3        Free_L_Max                    0.706, 0.390, 0.197, 0.211            0.914
+ 8        Not_Free_Mand                 0.697, 0.584, 0.190, 0.220            0.912
+ 4        Not_Free_Max                  0.335, 0.408, 0.138, 0.221            0.881
+ 8        Not_Free_Mand                 0.343, 0.577, 0.199, 0.188            0.861
+ 5        Not_Free_Center_Max           0.509, 0.375, 0.170, 0.259            0.793
+ 8        Not_Free_Mand                 0.600, 0.598, 0.100, 0.225            0.584
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class IV (Anterior edentulous area crossing midline)
+- Mandibular Kennedy classification: Class III (3 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.330, 0.414, 0.120, 0.203
+ 3        Free_L_Max                    0.711, 0.390, 0.203, 0.198
+ 5        Not_Free_Center_Max           0.510, 0.394, 0.176, 0.212
+ 8        Not_Free_Mand                 0.341, 0.589, 0.199, 0.231
+ 8        Not_Free_Mand                 0.601, 0.602, 0.105, 0.239
+ 8        Not_Free_Mand                 0.694, 0.576, 0.194, 0.217
+Total ground truth objects: 6
+
+****************************************************************************************************
+
+Image no.: 38
+Image title: a4.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.659, 0.564, 0.140, 0.184            0.884
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.661, 0.573, 0.143, 0.191
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 39
+Image title: a1372.png
+
+Predicted Results:
+Total objects detected:4
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 3        Free_L_Max                    0.644, 0.431, 0.277, 0.235            0.929
+ 2        Free_R_Max                    0.344, 0.453, 0.229, 0.189            0.914
+ 6        Free_R_Mand                   0.351, 0.645, 0.223, 0.214            0.914
+ 7        Free_L_Mand                   0.678, 0.658, 0.274, 0.224            0.896
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class I (Bilateral posterior edentulous areas)
+- Mandibular Kennedy classification: Class I (Bilateral posterior edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 6        Free_R_Mand                   0.353, 0.646, 0.227, 0.199
+ 3        Free_L_Max                    0.645, 0.449, 0.262, 0.206
+ 2        Free_R_Max                    0.353, 0.448, 0.209, 0.180
+ 7        Free_L_Mand                   0.655, 0.663, 0.227, 0.228
+ 6        Free_R_Mand                   0.350, 0.590, 0.220, 0.270
+Total ground truth objects: 5
+
+****************************************************************************************************
+
+Image no.: 40
+Image title: a1391.png
+
+Predicted Results:
+Total objects detected:5
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 6        Free_R_Mand                   0.349, 0.667, 0.228, 0.208            0.931
+ 5        Not_Free_Center_Max           0.560, 0.421, 0.324, 0.336            0.919
+ 7        Free_L_Mand                   0.705, 0.684, 0.210, 0.226            0.866
+ 3        Free_L_Max                    0.754, 0.509, 0.179, 0.217            0.466
+ 1        PCT                           0.437, 0.608, 0.044, 0.122            0.257
+
+Diagnosis:
+- No broken root detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class IV (Anterior edentulous area crossing midline)
+- Mandibular Kennedy classification: Class I (Bilateral posterior edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 6        Free_R_Mand                   0.377, 0.647, 0.177, 0.193
+ 7        Free_L_Mand                   0.694, 0.675, 0.183, 0.209
+ 3        Free_L_Max                    0.757, 0.504, 0.173, 0.229
+ 5        Not_Free_Center_Max           0.576, 0.474, 0.313, 0.237
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 41
+Image title: a1163.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.656, 0.697, 0.143, 0.182            0.807
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 42
+Image title: a187.png
+
+Predicted Results:
+Total objects detected:14
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.667, 0.482, 0.165, 0.168            0.921
+ 4        Not_Free_Max                  0.342, 0.489, 0.202, 0.172            0.917
+ 0        Broken_Root                   0.674, 0.471, 0.046, 0.094            0.869
+ 0        Broken_Root                   0.699, 0.636, 0.033, 0.106            0.819
+ 8        Not_Free_Mand                 0.717, 0.620, 0.177, 0.168            0.784
+ 0        Broken_Root                   0.383, 0.473, 0.039, 0.110            0.765
+ 0        Broken_Root                   0.637, 0.465, 0.037, 0.101            0.736
+ 0        Broken_Root                   0.727, 0.639, 0.034, 0.070            0.727
+ 8        Not_Free_Mand                 0.381, 0.677, 0.151, 0.217            0.720
+ 0        Broken_Root                   0.310, 0.478, 0.026, 0.096            0.607
+ 0        Broken_Root                   0.714, 0.635, 0.062, 0.101            0.600
+ 0        Broken_Root                   0.345, 0.475, 0.046, 0.112            0.472
+ 0        Broken_Root                   0.331, 0.477, 0.066, 0.109            0.380
+ 0        Broken_Root                   0.382, 0.660, 0.036, 0.173            0.366
+
+Diagnosis:
+- 10 broken roots detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (2 bounded edentulous areas)
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.719, 0.628, 0.167, 0.173
+ 4        Not_Free_Max                  0.664, 0.481, 0.156, 0.170
+ 4        Not_Free_Max                  0.331, 0.490, 0.223, 0.176
+ 0        Broken_Root                   0.675, 0.474, 0.037, 0.119
+ 0        Broken_Root                   0.635, 0.451, 0.042, 0.121
+ 0        Broken_Root                   0.385, 0.467, 0.048, 0.107
+ 0        Broken_Root                   0.363, 0.475, 0.042, 0.115
+ 0        Broken_Root                   0.334, 0.478, 0.030, 0.114
+ 0        Broken_Root                   0.304, 0.469, 0.033, 0.121
+ 0        Broken_Root                   0.728, 0.636, 0.040, 0.092
+ 0        Broken_Root                   0.698, 0.637, 0.047, 0.122
+ 0        Broken_Root                   0.293, 0.663, 0.046, 0.127
+ 0        Broken_Root                   0.411, 0.694, 0.037, 0.143
+ 0        Broken_Root                   0.381, 0.661, 0.029, 0.162
+ 0        Broken_Root                   0.261, 0.653, 0.044, 0.141
+ 0        Broken_Root                   0.380, 0.660, 0.040, 0.150
+ 0        Broken_Root                   0.700, 0.630, 0.030, 0.100
+ 0        Broken_Root                   0.350, 0.480, 0.050, 0.120
+Total ground truth objects: 18
+
+****************************************************************************************************
+
+Image no.: 43
+Image title: a350.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 44
+Image title: a2214.png
+
+Predicted Results:
+Total objects detected:6
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.698, 0.399, 0.139, 0.188            0.921
+ 8        Not_Free_Mand                 0.362, 0.624, 0.169, 0.217            0.904
+ 8        Not_Free_Mand                 0.704, 0.594, 0.132, 0.189            0.900
+ 8        Not_Free_Mand                 0.546, 0.617, 0.085, 0.208            0.787
+ 0        Broken_Root                   0.699, 0.366, 0.036, 0.082            0.695
+ 2        Free_R_Max                    0.296, 0.413, 0.144, 0.162            0.305
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class II (Unilateral posterior edentulous area - right)
+- Mandibular Kennedy classification: Class III (3 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 1        PCT                           0.324, 0.609, 0.075, 0.200
+ 0        Broken_Root                   0.697, 0.364, 0.040, 0.104
+ 4        Not_Free_Max                  0.699, 0.393, 0.135, 0.188
+ 1        PCT                           0.417, 0.650, 0.067, 0.188
+ 8        Not_Free_Mand                 0.706, 0.599, 0.120, 0.218
+ 8        Not_Free_Mand                 0.548, 0.615, 0.091, 0.199
+ 8        Not_Free_Mand                 0.366, 0.615, 0.157, 0.208
+ 2        Free_R_Max                    0.290, 0.409, 0.149, 0.163
+Total ground truth objects: 8
+
+****************************************************************************************************
+
+Image no.: 45
+Image title: a1730.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.371, 0.659, 0.110, 0.184            0.878
+ 8        Not_Free_Mand                 0.663, 0.676, 0.128, 0.194            0.844
+ 1        PCT                           0.702, 0.675, 0.056, 0.185            0.385
+
+Diagnosis:
+- No broken root detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.662, 0.678, 0.136, 0.218
+ 8        Not_Free_Mand                 0.370, 0.665, 0.127, 0.187
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 46
+Image title: 67.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 47
+Image title: 51.png
+
+Predicted Results:
+Total objects detected:9
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 0        Broken_Root                   0.237, 0.330, 0.046, 0.111            0.938
+ 4        Not_Free_Max                  0.611, 0.294, 0.160, 0.221            0.935
+ 8        Not_Free_Mand                 0.717, 0.494, 0.176, 0.199            0.887
+ 0        Broken_Root                   0.267, 0.488, 0.065, 0.114            0.881
+ 0        Broken_Root                   0.369, 0.508, 0.033, 0.148            0.809
+ 8        Not_Free_Mand                 0.367, 0.504, 0.110, 0.210            0.475
+ 1        PCT                           0.715, 0.314, 0.048, 0.202            0.464
+ 0        Broken_Root                   0.279, 0.493, 0.039, 0.097            0.318
+ 8        Not_Free_Mand                 0.272, 0.494, 0.167, 0.205            0.271
+
+Diagnosis:
+- 4 broken roots detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Kennedy classification: Class III (3 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.612, 0.293, 0.160, 0.199
+ 8        Not_Free_Mand                 0.722, 0.487, 0.180, 0.228
+ 0        Broken_Root                   0.759, 0.315, 0.046, 0.110
+ 0        Broken_Root                   0.333, 0.506, 0.037, 0.180
+ 0        Broken_Root                   0.240, 0.322, 0.043, 0.132
+ 0        Broken_Root                   0.368, 0.515, 0.032, 0.157
+ 0        Broken_Root                   0.272, 0.500, 0.069, 0.117
+ 8        Not_Free_Mand                 0.281, 0.490, 0.148, 0.240
+ 0        Broken_Root                   0.340, 0.500, 0.040, 0.160
+ 0        Broken_Root                   0.250, 0.490, 0.030, 0.090
+ 3        Free_L_Max                    0.770, 0.320, 0.150, 0.180
+ 4        Not_Free_Max                  0.300, 0.330, 0.100, 0.180
+Total ground truth objects: 12
+
+****************************************************************************************************
+
+Image no.: 48
+Image title: a2537.png
+
+Predicted Results:
+Total objects detected:4
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.315, 0.441, 0.119, 0.210            0.944
+ 8        Not_Free_Mand                 0.313, 0.643, 0.177, 0.228            0.930
+ 8        Not_Free_Mand                 0.680, 0.637, 0.134, 0.194            0.906
+ 5        Not_Free_Center_Max           0.511, 0.430, 0.198, 0.213            0.874
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class IV (Anterior edentulous area crossing midline)
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.675, 0.642, 0.140, 0.189
+ 4        Not_Free_Max                  0.317, 0.445, 0.109, 0.197
+ 5        Not_Free_Center_Max           0.509, 0.422, 0.193, 0.209
+ 8        Not_Free_Mand                 0.316, 0.627, 0.168, 0.212
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 49
+Image title: a2135.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.348, 0.591, 0.140, 0.231            0.904
+ 4        Not_Free_Max                  0.688, 0.375, 0.109, 0.191            0.826
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Kennedy classification: Class III (1 bounded edentulous area)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.350, 0.595, 0.139, 0.217
+ 4        Not_Free_Max                  0.686, 0.385, 0.111, 0.167
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 50
+Image title: a2308.png
+
+Predicted Results:
+Total objects detected:5
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 1        PCT                           0.662, 0.632, 0.076, 0.216            0.960
+ 7        Free_L_Mand                   0.731, 0.621, 0.217, 0.201            0.930
+ 8        Not_Free_Mand                 0.517, 0.657, 0.081, 0.224            0.799
+ 5        Not_Free_Center_Max           0.479, 0.432, 0.508, 0.362            0.289
+ 1        PCT                           0.433, 0.642, 0.043, 0.233            0.270
+
+Diagnosis:
+- No broken root detected.
+- 2 periodontally compromised teeth detected.
+- Maxillary Kennedy classification: Class IV (Anterior edentulous area crossing midline)
+- Mandibular Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 7        Free_L_Mand                   0.741, 0.615, 0.240, 0.206
+ 9        Not_Free_Center_Mand          0.522, 0.707, 0.145, 0.350
+ 1        PCT                           0.661, 0.625, 0.083, 0.209
+Total ground truth objects: 3
+
+****************************************************************************************************
+
+Image no.: 51
+Image title: a24.png
+
+Predicted Results:
+Total objects detected:7
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.327, 0.448, 0.176, 0.162            0.940
+ 4        Not_Free_Max                  0.610, 0.427, 0.124, 0.188            0.924
+ 0        Broken_Root                   0.598, 0.405, 0.044, 0.119            0.921
+ 7        Free_L_Mand                   0.713, 0.602, 0.216, 0.174            0.897
+ 8        Not_Free_Mand                 0.337, 0.614, 0.194, 0.198            0.897
+ 0        Broken_Root                   0.373, 0.450, 0.034, 0.134            0.833
+ 1        PCT                           0.275, 0.595, 0.068, 0.185            0.364
+
+Diagnosis:
+- 2 broken roots detected.
+- A single periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (2 bounded edentulous areas)
+- Mandibular Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.598, 0.406, 0.035, 0.114
+ 4        Not_Free_Max                  0.321, 0.451, 0.190, 0.151
+ 0        Broken_Root                   0.369, 0.424, 0.042, 0.102
+ 7        Free_L_Mand                   0.707, 0.600, 0.199, 0.174
+ 8        Not_Free_Mand                 0.336, 0.615, 0.202, 0.205
+ 4        Not_Free_Max                  0.610, 0.430, 0.110, 0.170
+Total ground truth objects: 6
+
+****************************************************************************************************
+
+Image no.: 52
+Image title: a1541.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.373, 0.635, 0.123, 0.214            0.925
+ 8        Not_Free_Mand                 0.670, 0.647, 0.153, 0.193            0.921
+ 8        Not_Free_Mand                 0.293, 0.616, 0.144, 0.226            0.836
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (3 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.674, 0.654, 0.172, 0.199
+ 8        Not_Free_Mand                 0.379, 0.628, 0.119, 0.200
+ 8        Not_Free_Mand                 0.291, 0.600, 0.135, 0.205
+Total ground truth objects: 3
+
+****************************************************************************************************
+
+Image no.: 53
+Image title: a2053.png
+
+Predicted Results:
+Total objects detected:3
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 7        Free_L_Mand                   0.672, 0.656, 0.247, 0.212            0.928
+ 6        Free_R_Mand                   0.372, 0.631, 0.196, 0.203            0.911
+ 8        Not_Free_Mand                 0.511, 0.634, 0.086, 0.200            0.577
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class I (Bilateral posterior edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 9        Not_Free_Center_Mand          0.522, 0.678, 0.105, 0.286
+ 1        PCT                           0.495, 0.640, 0.120, 0.230
+ 7        Free_L_Mand                   0.652, 0.649, 0.208, 0.212
+ 6        Free_R_Mand                   0.368, 0.643, 0.206, 0.233
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 54
+Image title: a921.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 55
+Image title: a616.png
+
+Predicted Results:
+Total objects detected:4
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 2        Free_R_Max                    0.309, 0.499, 0.160, 0.193            0.916
+ 3        Free_L_Max                    0.683, 0.490, 0.181, 0.192            0.905
+ 6        Free_R_Mand                   0.328, 0.710, 0.176, 0.196            0.901
+ 7        Free_L_Mand                   0.714, 0.722, 0.212, 0.212            0.884
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class I (Bilateral posterior edentulous areas)
+- Mandibular Kennedy classification: Class I (Bilateral posterior edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 3        Free_L_Max                    0.698, 0.482, 0.208, 0.200
+ 2        Free_R_Max                    0.310, 0.499, 0.147, 0.186
+ 7        Free_L_Mand                   0.714, 0.723, 0.213, 0.221
+ 6        Free_R_Mand                   0.325, 0.716, 0.179, 0.202
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 56
+Image title: a628.png
+
+Predicted Results:
+Total objects detected:4
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.338, 0.652, 0.142, 0.236            0.886
+ 0        Broken_Root                   0.402, 0.412, 0.039, 0.170            0.477
+ 7        Free_L_Mand                   0.697, 0.627, 0.202, 0.235            0.339
+ 8        Not_Free_Mand                 0.697, 0.627, 0.202, 0.233            0.307
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class II (Unilateral posterior edentulous area - left)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.699, 0.622, 0.192, 0.234
+ 8        Not_Free_Mand                 0.339, 0.645, 0.137, 0.221
+ 0        Broken_Root                   0.400, 0.430, 0.030, 0.140
+ 4        Not_Free_Max                  0.400, 0.450, 0.080, 0.210
+Total ground truth objects: 4
+
+****************************************************************************************************
+
+Image no.: 57
+Image title: a506.png
+
+Predicted Results:
+Total objects detected:1
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.700, 0.389, 0.119, 0.195            0.944
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 4        Not_Free_Max                  0.701, 0.389, 0.111, 0.179
+Total ground truth objects: 1
+
+****************************************************************************************************
+
+Image no.: 58
+Image title: a766.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 59
+Image title: a44.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+
+Image no.: 60
+Image title: a941.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 4        Not_Free_Max                  0.364, 0.349, 0.119, 0.211            0.889
+ 0        Broken_Root                   0.372, 0.581, 0.048, 0.189            0.865
+
+Diagnosis:
+- A single broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Kennedy classification: Class III (1 bounded edentulous area)
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 0        Broken_Root                   0.376, 0.572, 0.042, 0.173
+ 6        Free_R_Mand                   0.254, 0.562, 0.214, 0.264
+ 4        Not_Free_Max                  0.360, 0.354, 0.124, 0.215
+Total ground truth objects: 3
+
+****************************************************************************************************
+
+Image no.: 61
+Image title: a471.png
+
+Predicted Results:
+Total objects detected:2
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm  Confidence level
+ 8        Not_Free_Mand                 0.649, 0.666, 0.128, 0.158            0.914
+ 8        Not_Free_Mand                 0.357, 0.645, 0.137, 0.186            0.888
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Kennedy classification: Class III (2 bounded edentulous areas)
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+ 8        Not_Free_Mand                 0.350, 0.657, 0.128, 0.179
+ 8        Not_Free_Mand                 0.649, 0.661, 0.123, 0.157
+Total ground truth objects: 2
+
+****************************************************************************************************
+
+Image no.: 62
+Image title: a882.png
+
+Predicted Results:
+Total objects detected: 0 (Prediction failed or empty result)
+
+Diagnosis:
+- No broken root detected.
+- No periodontally compromised tooth detected.
+- Maxillary Arch: Fully dentate or classification criteria not met.
+- Mandibular Arch: Fully dentate or classification criteria not met.
+
+Ground Truth:
+Class     Class name               Bounding box coordinates (x_center,y_center,w,h) norm
+Total ground truth objects: 0
+
+****************************************************************************************************
+

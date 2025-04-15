@@ -1,0 +1,8 @@
+Base Model Used: yolov8n.pt
+Epochs Trained This Run: 50
+Image Size (imgsz): 1408
+Batch Size: 8
+Model Info: (129, 3012798, 0, 8.2038272)
+Training Wall time: 1879.87 sec
+Results directory: /content/drive/MyDrive/Dataset/runs/detect/yolov8n_epochs50_imgsz1408_batch82
+****************************************************************************************************
